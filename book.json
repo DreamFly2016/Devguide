@@ -5,25 +5,6 @@
         "logo": "./assets/site/logo_pro_small.png",
         "px4_version": "v1.10"
     },
-    "plugins": [
-        "youtube",
-        "richquotes@git+https://github.com/Dronecode/gitbook-plugin-richquotes.git",
-        "collapsible-menu",
-        "anchors",
-        "page-toc-button",
-        "ga",
-        "language-picker",
-        "custom-favicon",
-        "bulk-redirect@git+https://github.com/Dronecode/gitbook-plugin-bulk-redirect.git",
-        "toolbar@git+https://github.com/hamishwillee/gitbook-plugin-toolbar.git",
-        "validate-links",
-        "versions-select@git+https://github.com/Dronecode/gitbook-plugin-versions-select.git",
-        "mathjax@git+https://github.com/Dronecode/plugin-mathjax.git#update_cdn",
-        "mermaid",
-        "-stub-out-blocks@git+https://github.com/hamishwillee/gitbook-plugin-stub-out-blocks.git",
-        "theme-dronecode@git+https://github.com/dronecode/theme-dronecode.git"
-
-    ],
     "pluginsConfig":
     {
 
